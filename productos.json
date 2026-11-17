@@ -1,0 +1,16 @@
+[
+    {
+        "id": 101,
+        "nombre": "Teclado mecanico",
+        "descripcion": "Teclado USB con luces",
+        "precio": 75000.0,
+        "cantidad": 5
+    },
+    {
+        "id": 102,
+        "nombre": "Mouse",
+        "descripcion": "Mouse inalambrico",
+        "precio": 30000.0,
+        "cantidad": 15
+    }
+]
